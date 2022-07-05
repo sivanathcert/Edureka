@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Assignments/EdurekaAssignments/src"/>
+	<classpathentry kind="src" path="Sunil - Notes_Programs/Week2_Java-89/codes/edureka/src"/>
+	<classpathentry excluding="edureka/src/" kind="src" path="Sunil - Notes_Programs/Week3_Java-89/Java-89/codes"/>
+	<classpathentry kind="src" path="Sunil - Notes_Programs/Week3_Java-89/Java-89/codes/edureka/src"/>
+	<classpathentry kind="output" path="Assignments/EdurekaAssignments/bin"/>
+</classpath>
